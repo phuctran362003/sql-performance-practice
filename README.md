@@ -40,5 +40,5 @@ Welcome to the **SQL Performance Practice** repository! This repository is dedic
 
 2. Run the scripts in your SQL Server instance to test and analyze performance improvements.
 
-
+Happy Query Optimization! 🚀
 
